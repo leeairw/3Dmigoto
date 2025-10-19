@@ -1,6 +1,8 @@
 ![image](https://cloud.githubusercontent.com/assets/6544511/22624161/934dba64-eb27-11e6-8f78-46c902e96e1b.png)
 ========
 
+https://www.bilibili.com/video/BV1TNxWztE34/ 视频详解
+
 ### Chiri's wrapper to enable fixing broken stereoscopic effects in DX11 games.
 #### Now also a general purpose DX11 modding tool.
 
